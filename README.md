@@ -30,10 +30,7 @@ Merge images and create PDF with PYTHON
 - Select directory where your images are located  
   
 
-- And Press Create PDF
-
-
-</td><td valign="top" width="50%">
+- And Press Create PDF button
 
 </td></tr></table>  
 
