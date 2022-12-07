@@ -24,7 +24,7 @@ Merge images and create PDF with PYTHON
 - You must use jpg,png,jpeg file  
   
 
-- Rename your images as page number(for example: 1.jpg,2.jpg,3.png,4.jpg,5.png)
+- Rename your images as page number(for example: 1.jpg, 2.jpg , 3.png , 4.jpg , 5.png )
   
 
 - Select directory where your images are located  
